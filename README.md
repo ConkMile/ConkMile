@@ -1,16 +1,17 @@
-## Hi there 👋
+# Welcome to DX-SMART's GitHub
+DX-SMART focuses on the R&D and resource sharing of IoT wireless modules, providing developers with complete module data packages, development guides and technical support.
+Thank you for choosing DX-SMART products.
+If you encounter any issues during use, please contact our support team before leaving feedback. We are committed to providing you with professional and timely technical support to ensure the best experience.
 
-<!--
-**ConkMile/ConkMile** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Your satisfaction is our top priority.
 
-Here are some ideas to get you started:
+- 📧 Email: [manager@szdx-smart.com](mailto:manager@szdx-smart.com)
+- 💬 WhatsApp: +86 15798463070
+- 🌐 Website: [en.szdx-smart.com](https://en.szdx-smart.com/)
+- YouTube Official Channel: https://www.youtube.com/@DX-SMART
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📦 Module Repository
+Click the link below to access the corresponding module resource package:
+- [Beacon](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth Beacon Module Package
