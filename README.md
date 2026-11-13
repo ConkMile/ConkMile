@@ -14,4 +14,4 @@ Your satisfaction is our top priority.
 
 ## 📦 Module Repository
 Click the link below to access the corresponding module resource package:
-- [Beacon](https://github.com/DX-SMART/BLUETOOTH-BEACON): Bluetooth Beacon Module Package
+- [dxibeacon-v1.0.0](): Bluetooth Beacon Module Package
