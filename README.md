@@ -14,4 +14,4 @@ Your satisfaction is our top priority.
 
 ## 📦 Module Repository
 Click the link below to access the corresponding module resource package:
-- [dxibeacon-v1.0.0](): Bluetooth Beacon Module Package
+- [dxibeacon-v1.0.0](https://github.com/ConkMile/dxibeacon-v1.0): dxibeacon-v1.0.0
